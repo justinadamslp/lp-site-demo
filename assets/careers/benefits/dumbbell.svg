@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="50" viewBox="0 0 73 50" fill="none">
+  <path d="M47.4147 27.5058H24.4507" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M24.4507 22.4942H47.4147" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <mask id="mask0_1479_5503" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="73" height="50">
+    <path d="M0 0H73V50H0V0Z" fill="white"/>
+  </mask>
+  <g mask="url(#mask0_1479_5503)">
+    <path d="M64.9976 22.4942H71.5744V27.5057H64.9976" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6.75963 27.5058H1.42578V22.4942H6.75963" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12.2905 35.3732H9.28408C7.98576 35.3732 6.93311 34.6522 6.93311 33.7629V16.2371C6.93311 15.3477 7.98576 14.6268 9.28408 14.6268H12.2905C13.5889 14.6268 14.6414 15.3477 14.6414 16.2371V33.7629C14.6414 34.6522 13.5889 35.3732 12.2905 35.3732Z" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M21.7554 37.0023H16.9926C15.6941 37.0023 14.6416 36.2814 14.6416 35.3921V14.6079C14.6416 13.7186 15.6941 12.9977 16.9926 12.9977H21.7554C23.0537 12.9977 24.1064 13.7186 24.1064 14.6079V35.3921C24.1064 36.2814 23.0537 37.0023 21.7554 37.0023Z" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M59.4838 14.6268H62.4902C63.7885 14.6268 64.8412 15.3478 64.8412 16.237V33.7629C64.8412 34.6523 63.7885 35.3732 62.4902 35.3732H59.4838C58.1855 35.3732 57.1328 34.6523 57.1328 33.7629V16.237C57.1328 15.3478 58.1855 14.6268 59.4838 14.6268Z" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M50.0194 12.9977H54.7822C56.0807 12.9977 57.1332 13.7186 57.1332 14.6079V35.3921C57.1332 36.2814 56.0807 37.0023 54.7822 37.0023H50.0194C48.7211 37.0023 47.6685 36.2814 47.6685 35.3921V14.6079C47.6685 13.7186 48.7211 12.9977 50.0194 12.9977Z" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
